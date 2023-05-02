@@ -10,7 +10,7 @@ A github repo containing the LoRA weights for a fine-tuned model which was train
 
 ## Setup
 
-- Install dependencies with pip by executing the command: ```sh pip install -r requirements.txt```
+- Install dependencies with pip by executing the command: ```pip install -r requirements.txt```
 
 ## Inference
 
