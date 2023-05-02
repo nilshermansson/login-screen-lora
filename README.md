@@ -14,4 +14,4 @@ A github repo containing the LoRA weights for a fine-tuned model which was train
 
 ## Inference
 
-In order to perform inference all you need to do is to run the sample.py file. The model works best if you provide it with a prompt like this:
+In order to perform inference all you need to do is to run the sample.py file. It doesn't let the user access the prompt directly since the output will suffer unless the prompt is constructed in a certain way.
