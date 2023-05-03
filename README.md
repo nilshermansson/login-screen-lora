@@ -1,6 +1,6 @@
 # login-screen-lora
 
-A github repo containing the LoRA weights for a fine-tuned model which was trained on Stable Diffusion 1.5.
+A github repo containing the LoRA weights for a fine-tuned model which was trained on a dataset of login screens using Stable Diffusion 1.5 as the base model.
 
 ## Dependencies
 
